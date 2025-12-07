@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>وی‌استک، مجری کلود</title>
-    <link>http://localhost:1313/jobs/apply/</link>
+    <link>https://westack.ir/jobs/apply/</link>
     <description>Recent content on وی‌استک، مجری کلود</description>
     <generator>Hugo</generator>
     <language>fa-ir</language>
-    <atom:link href="http://localhost:1313/jobs/apply/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://westack.ir/jobs/apply/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
